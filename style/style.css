@@ -1,0 +1,39 @@
+.heading {
+    padding: 80px;
+    margin-left: 300px;
+    color: darkblue;
+    font-weight: normal;
+    font-family: 'Ultra', sans-serif;
+    font-size: 50px;
+    line-height: 42px;
+    text-transform: capitalize;
+}
+
+.letter {
+    alignment-baseline: central;
+    align-self: center;
+    padding: 10px;
+    margin: 100px;
+    background-color: orange;
+    color: crimson;
+    height: 80px;
+    width: 700px;
+    font-family: monospace;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.circle {
+    background-color: crimson;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
